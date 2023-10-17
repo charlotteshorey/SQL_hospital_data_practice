@@ -1,0 +1,9 @@
+Your Pokemon:
+sneasler
+
+Its random moves are:
+gunk-shot
+poison-jab
+metal-claw
+
+Take good care of your Pokemon!
